@@ -1,10 +1,5 @@
 /*****************************************
 ** File:    Movie.cpp
-** Project: CMSC 202 Project 5, Spring 2024
-** Author:  Marcus Davis
-** Date:    5/2/24
-** Section: 32
-** E-mail:  marcusd2@umbc.edu
 ** Description: This file implements the functions outlined in Movie.h in order to create a funcioning Movie class
 ***********************************************/
 
